@@ -1,0 +1,217 @@
+[
+    {
+       "name":"Icecream",
+       "cat":"Dessert",
+       "gwp":"19,18",
+       "ec":"91,64",
+       "wu":"0,38",
+       "ingredients":[
+          "Chocolate",
+          "Low fat organic milk",
+          "Eggs"
+       ]
+    },
+    {
+       "name":"Cheesecake",
+       "cat":"Dessert",
+       "gwp":"30,67",
+       "ec":"91,64",
+       "wu":"0,38",
+       "ingredients":[
+          "Butter",
+          "Chocolate",
+          "Low fat organic milk",
+          "Eggs"
+       ]
+    },
+    {
+       "name":"Chocolate chip cookies",
+       "cat":"Dessert",
+       "gwp":"29,77",
+       "ec":"116,56",
+       "wu":"2,28",
+       "ingredients":[
+          "Chocolate",
+          "Almods",
+          "Whole Milk",
+          "Butter"
+       ]
+    },
+    {
+        "name":"Rice pudding",
+        "cat":"Dessert",
+        "gwp":"13,64",
+        "ec":"6,52",
+        "wu":"1,44",
+        "ingredients":[
+           "Almond milk",
+           "Risotto rice",
+           "Butter"
+        ]
+     },
+     {
+        "name":"Chocolate tofu pudding",
+        "cat":"Dessert",
+        "gwp":"17,9",
+        "ec":"104,62",
+        "wu":"0,38",
+        "ingredients":[
+           "Tofu",
+           "Chocolate"
+        ]
+     },
+    {
+       "name":"Pizza with pork",
+       "cat":"Pizza",
+       "gwp":"46,64",
+       "ec":"218,3",
+       "wu":"1,19",
+       "ingredients":[
+          "Pork",
+          "Ham",
+          "Cheese slices",
+          "Wheat",
+          "Whole Milk",
+          "Eggs",
+          "Butter"
+       ]
+    },
+    {
+       "name":"Pizza with chicken",
+       "cat":"Pizza",
+       "gwp":"32,13",
+       "ec":"101,52",
+       "wu":"0,55",
+       "ingredients":[
+          "Chicken",
+          "Corn",
+          "Cheese slices",
+          "Wheat",
+          "Whole Milk",
+          "Eggs",
+          "Butter"
+       ]
+    },
+    {
+       "name":"Vegetarian pizza",
+       "cat":"Pizza",
+       "gwp":"20,44",
+       "ec":"36,26",
+       "wu":"0,12",
+       "ingredients":[
+          "Tofu",
+          "Corn",
+          "Quorn",
+          "Wheat",
+          "Whole Milk",
+          "Eggs",
+          "Butter"
+       ]
+    },
+    {
+       "name":"Lentil carbonara",
+       "cat":"Pasta",
+       "gwp":"41,46",
+       "ec":"169,89",
+       "wu":"0,61",
+       "ingredients":[
+          "Lentils",
+          "Beef",
+          "Whole Milk",
+          "Butter"
+       ]
+    },
+    {
+       "name":"Pasta carbonara",
+       "cat":"Pasta",
+       "gwp":"42,17",
+       "ec":"181,45",
+       "wu":"0,48",
+       "ingredients":[
+          "Dry Pasta",
+          "Beef",
+          "Whole Milk",
+          "Butter"
+       ]
+    },
+    {
+       "name":"Chicken lentil",
+       "cat":"Pasta",
+       "gwp":"20,52",
+       "ec":"69,81",
+       "wu":"0,48",
+       "ingredients":[
+          "Lentils",
+          "Chicken",
+          "Whole Milk",
+          "Butter"
+       ]
+    },
+    {
+       "name":"Chicken pasta",
+       "cat":"Pasta",
+       "gwp":"21,23",
+       "ec":"81,37",
+       "wu":"0,35",
+       "ingredients":[
+          "Dry pasta",
+          "Chicken",
+          "Whole Milk",
+          "Butter"
+       ]
+    },
+    {
+        "name":"Ravioli with meat",
+        "cat":"Pasta",
+        "gwp":"10,25",
+        "ec":"66,22",
+        "wu":"0,16",
+        "ingredients":[
+            "Ravioli",
+            "Meat"
+        ]
+     },
+    {
+       "name":"Salami grilled cheese",
+       "cat":"Sandwich",
+       "gwp":"19,05",
+       "ec":"126,9",
+       "wu":"0,67",
+       "ingredients":[
+          "Cheese slices",
+          "Ham"
+       ]
+    },
+    {
+       "name":"Vegetarian salami grilled cheese",
+       "cat":"Sandwich",
+       "gwp":"6,39",
+       "ec":"28,59",
+       "wu":"0,17",
+       "ingredients":[
+          "Cheese spread",
+          "Vegetarian salami"
+       ]
+    },
+    {
+       "name":"Tofu sandwich",
+       "cat":"Sandwich",
+       "gwp":"3,23",
+       "ec":"14,37",
+       "wu":"0",
+       "ingredients":[
+          "Tofu"
+       ]
+    },
+    {
+        "name":"Pancetta and cheese sandwich",
+        "cat":"Sandwich",
+        "gwp":"23,14",
+        "ec":"116,11",
+        "wu":"0,63",
+        "ingredients":[
+           "Pancetta",
+           "Cheese spread"
+        ]
+     }
+ ]

@@ -1,0 +1,33 @@
+{
+  "id": "87a56ed7-7517-4de4-874f-de9e2c39176f",
+  "parentId": "853c2a0c-405d-4691-88e7-b0f862d9604c",
+  "rootParentId": "853c2a0c-405d-4691-88e7-b0f862d9604c",
+  "name": "delivery.order.swap - yes",
+  "auto": true,
+  "contexts": [
+    "deliveryorderswap-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "deliveryorderswap.deliveryorderswap-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537019408,
+  "fallbackIntent": false,
+  "events": []
+}

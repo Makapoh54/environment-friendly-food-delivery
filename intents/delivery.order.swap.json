@@ -1,0 +1,40 @@
+{
+  "id": "853c2a0c-405d-4691-88e7-b0f862d9604c",
+  "name": "delivery.order.swap",
+  "auto": true,
+  "contexts": [
+    "delivery-swap"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "deliveryorderswap-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "#delivery-swap.message"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537020777,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "initiate-swap"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "value": "pasta carbonara",
+    "synonyms": [
+      "pasta carbonara"
+    ]
+  },
+  {
+    "value": "icecream",
+    "synonyms": [
+      "icecream",
+      "ice cream"
+    ]
+  },
+  {
+    "value": "chicken pasta",
+    "synonyms": [
+      "chicken pasta"
+    ]
+  },
+  {
+    "value": "lentil carbonara",
+    "synonyms": [
+      "lentil carbonara"
+    ]
+  },
+  {
+    "value": "chicken lentil",
+    "synonyms": [
+      "chicken lentil"
+    ]
+  },
+  {
+    "value": "cheesecake",
+    "synonyms": [
+      "cheesecake"
+    ]
+  },
+  {
+    "value": "chocolate chip cookies",
+    "synonyms": [
+      "chocolate chip cookies",
+      "chocolate cookies",
+      "cookies"
+    ]
+  },
+  {
+    "value": "pizza with pork",
+    "synonyms": [
+      "pizza with pork",
+      "pork pizza"
+    ]
+  },
+  {
+    "value": "pizza with chicken",
+    "synonyms": [
+      "pizza with chicken",
+      "chicken pizza"
+    ]
+  },
+  {
+    "value": "vegetarian pizza",
+    "synonyms": [
+      "vegetarian pizza"
+    ]
+  },
+  {
+    "value": "salami grilled cheese",
+    "synonyms": [
+      "salami grilled sandwich",
+      "salami sandwich"
+    ]
+  },
+  {
+    "value": "vegetarian salami grilled sandwich",
+    "synonyms": [
+      "vegetarian salami grilled sandwich",
+      "Vegetarian salami grilled cheese"
+    ]
+  },
+  {
+    "value": "tofu sandwich",
+    "synonyms": [
+      "tofu sandwich"
+    ]
+  },
+  {
+    "value": "rice pudding",
+    "synonyms": [
+      "rice pudding",
+      "rice"
+    ]
+  },
+  {
+    "value": "chocolate tofu pudding",
+    "synonyms": [
+      "chocolate tofu pudding",
+      "tofu pudding"
+    ]
+  },
+  {
+    "value": "ravioli with meat",
+    "synonyms": [
+      "ravioli with meat"
+    ]
+  },
+  {
+    "value": "Pancetta and cheese sandwich",
+    "synonyms": [
+      "Pancetta and cheese sandwich"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "7f62b643-fdad-46b2-9d2c-c1b0155d0700",
+  "parentId": "5014cfac-10f3-46e5-823c-e24d20a90c45",
+  "rootParentId": "5014cfac-10f3-46e5-823c-e24d20a90c45",
+  "name": "delivery.order.check - no",
+  "auto": true,
+  "contexts": [
+    "deliveryordercheck-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "deliveryordercheck.deliveryordercheck-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Good. Order was made, await.",
+            "That\u0027s all. Wait for the order now!",
+            "Alright, I made the order.",
+            "Order made! You should await now.",
+            "I\u0027ve place an order. Now you should just wait."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537034587,
+  "fallbackIntent": false,
+  "events": []
+}

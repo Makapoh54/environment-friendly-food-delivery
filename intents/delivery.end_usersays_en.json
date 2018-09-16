@@ -1,0 +1,55 @@
+[
+  {
+    "id": "15459a42-4da1-4f11-b8fa-459479d0dd80",
+    "data": [
+      {
+        "text": "Cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536981869
+  },
+  {
+    "id": "ab9fec46-dfab-4aa4-a482-26f6660c595b",
+    "data": [
+      {
+        "text": "That\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536981869
+  },
+  {
+    "id": "8781ee4a-d69d-401e-99a6-110e5c79da6c",
+    "data": [
+      {
+        "text": "Goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536981869
+  },
+  {
+    "id": "71c06b83-44a0-4552-83b1-4ce553706097",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536981869
+  }
+]

@@ -1,0 +1,2480 @@
+[
+  {
+    "value": "Astro pop",
+    "synonyms": [
+      "Astro pop"
+    ]
+  },
+  {
+    "value": "Bacardi",
+    "synonyms": [
+      "Bacardi   "
+    ]
+  },
+  {
+    "value": "Black Velvet",
+    "synonyms": [
+      "Black Velvet"
+    ]
+  },
+  {
+    "value": "Breakfast martini",
+    "synonyms": [
+      "Breakfast martini"
+    ]
+  },
+  {
+    "value": "Bronx Cocktail",
+    "synonyms": [
+      "Bronx Cocktail"
+    ]
+  },
+  {
+    "value": "Caju Amigo",
+    "synonyms": [
+      "Caju Amigo"
+    ]
+  },
+  {
+    "value": "Cask ale",
+    "synonyms": [
+      "Cask ale"
+    ]
+  },
+  {
+    "value": "Champagne Cocktail",
+    "synonyms": [
+      "Champagne Cocktail"
+    ]
+  },
+  {
+    "value": "Cider",
+    "synonyms": [
+      "Cider "
+    ]
+  },
+  {
+    "value": "Damn the Weather",
+    "synonyms": [
+      "Damn the Weather"
+    ]
+  },
+  {
+    "value": "El Toro Loco Patron and Redbull",
+    "synonyms": [
+      "El Toro Loco Patron and Redbull"
+    ]
+  },
+  {
+    "value": "Flaming Dr Pepper",
+    "synonyms": [
+      "Flaming Dr Pepper"
+    ]
+  },
+  {
+    "value": "Fruit wine",
+    "synonyms": [
+      "Fruit wine"
+    ]
+  },
+  {
+    "value": "Gimlet",
+    "synonyms": [
+      "Gimlet"
+    ]
+  },
+  {
+    "value": "Hangman\u0027s Blood",
+    "synonyms": [
+      "Hangman\u0027s Blood"
+    ]
+  },
+  {
+    "value": "Horilka",
+    "synonyms": [
+      "Horilka"
+    ]
+  },
+  {
+    "value": "Huangjiu",
+    "synonyms": [
+      "Huangjiu"
+    ]
+  },
+  {
+    "value": "Maerzen",
+    "synonyms": [
+      "Maerzen"
+    ]
+  },
+  {
+    "value": "Moonwalk",
+    "synonyms": [
+      "Moonwalk"
+    ]
+  },
+  {
+    "value": "Nuclear Iced Tea",
+    "synonyms": [
+      "Nuclear Iced Tea"
+    ]
+  },
+  {
+    "value": "Pink Lady",
+    "synonyms": [
+      "Pink Lady"
+    ]
+  },
+  {
+    "value": "Pisco",
+    "synonyms": [
+      "Pisco"
+    ]
+  },
+  {
+    "value": "Sake",
+    "synonyms": [
+      "Sake "
+    ]
+  },
+  {
+    "value": "Sherry",
+    "synonyms": [
+      "Sherry"
+    ]
+  },
+  {
+    "value": "Small beer",
+    "synonyms": [
+      "Small beer"
+    ]
+  },
+  {
+    "value": "Tequila and Tonic",
+    "synonyms": [
+      "Tequila and Tonic"
+    ]
+  },
+  {
+    "value": "Witbier",
+    "synonyms": [
+      "Witbier "
+    ]
+  },
+  {
+    "value": "Alexander",
+    "synonyms": [
+      "Alexander"
+    ]
+  },
+  {
+    "value": "Appletini",
+    "synonyms": [
+      "Appletini"
+    ]
+  },
+  {
+    "value": "Bloody Mary",
+    "synonyms": [
+      "Bloody Mary   "
+    ]
+  },
+  {
+    "value": "Brown ale",
+    "synonyms": [
+      "Brown ale"
+    ]
+  },
+  {
+    "value": "Cojito",
+    "synonyms": [
+      "Cojito"
+    ]
+  },
+  {
+    "value": "Four Score",
+    "synonyms": [
+      "Four Score"
+    ]
+  },
+  {
+    "value": "Gin and tonic",
+    "synonyms": [
+      "Gin and tonic"
+    ]
+  },
+  {
+    "value": "Ginza Mary",
+    "synonyms": [
+      "Ginza Mary"
+    ]
+  },
+  {
+    "value": "Grasshopper",
+    "synonyms": [
+      "Grasshopper   "
+    ]
+  },
+  {
+    "value": "Japanese whisky",
+    "synonyms": [
+      "Japanese whisky"
+    ]
+  },
+  {
+    "value": "John Collins",
+    "synonyms": [
+      "John Collins   "
+    ]
+  },
+  {
+    "value": "Kalimotxo or Calimocho or Rioja Libre",
+    "synonyms": [
+      "Kalimotxo or Calimocho or Rioja Libre"
+    ]
+  },
+  {
+    "value": "Kamikaze",
+    "synonyms": [
+      "Kamikaze"
+    ]
+  },
+  {
+    "value": "Link Up",
+    "synonyms": [
+      "Link Up"
+    ]
+  },
+  {
+    "value": "Mai-Tai",
+    "synonyms": [
+      "Mai-Tai   "
+    ]
+  },
+  {
+    "value": "Mezcal",
+    "synonyms": [
+      "Mezcal"
+    ]
+  },
+  {
+    "value": "Paradise",
+    "synonyms": [
+      "Paradise"
+    ]
+  },
+  {
+    "value": "Poire Williams",
+    "synonyms": [
+      "Poire Williams"
+    ]
+  },
+  {
+    "value": "Rob Roy",
+    "synonyms": [
+      "Rob Roy"
+    ]
+  },
+  {
+    "value": "Rose Kennedy Cocktail",
+    "synonyms": [
+      "Rose Kennedy Cocktail"
+    ]
+  },
+  {
+    "value": "Schwarzbier",
+    "synonyms": [
+      "Schwarzbier"
+    ]
+  },
+  {
+    "value": "Seven and Seven",
+    "synonyms": [
+      "Seven and Seven"
+    ]
+  },
+  {
+    "value": "Tom and Jerry Cocktail",
+    "synonyms": [
+      "Tom and Jerry Cocktail"
+    ]
+  },
+  {
+    "value": "Vesper",
+    "synonyms": [
+      "Vesper   "
+    ]
+  },
+  {
+    "value": "Vodka Sunrise",
+    "synonyms": [
+      "Vodka Sunrise"
+    ]
+  },
+  {
+    "value": "Arrack",
+    "synonyms": [
+      "Arrack"
+    ]
+  },
+  {
+    "value": "Baby Guinness",
+    "synonyms": [
+      "Baby Guinness"
+    ]
+  },
+  {
+    "value": "Black Russian",
+    "synonyms": [
+      "Black Russian"
+    ]
+  },
+  {
+    "value": "Brandy Alexander",
+    "synonyms": [
+      "Brandy Alexander   "
+    ]
+  },
+  {
+    "value": "Caribou Lou",
+    "synonyms": [
+      "Caribou Lou"
+    ]
+  },
+  {
+    "value": "Champagne",
+    "synonyms": [
+      "Champagne"
+    ]
+  },
+  {
+    "value": "Chicago Cocktail",
+    "synonyms": [
+      "Chicago Cocktail"
+    ]
+  },
+  {
+    "value": "Desi daru",
+    "synonyms": [
+      "Desi daru"
+    ]
+  },
+  {
+    "value": "Glowtini",
+    "synonyms": [
+      "Glowtini"
+    ]
+  },
+  {
+    "value": "Green Vesper",
+    "synonyms": [
+      "Green Vesper"
+    ]
+  },
+  {
+    "value": "Harrogate Nights",
+    "synonyms": [
+      "Harrogate Nights"
+    ]
+  },
+  {
+    "value": "Himbeergeist",
+    "synonyms": [
+      "Himbeergeist"
+    ]
+  },
+  {
+    "value": "Joker Cocktail",
+    "synonyms": [
+      "Joker Cocktail"
+    ]
+  },
+  {
+    "value": "Kremlin Colonel",
+    "synonyms": [
+      "Kremlin Colonel"
+    ]
+  },
+  {
+    "value": "Lynchburg Lemonade",
+    "synonyms": [
+      "Lynchburg Lemonade"
+    ]
+  },
+  {
+    "value": "Macuá",
+    "synonyms": [
+      "Macuá"
+    ]
+  },
+  {
+    "value": "Ogogoro",
+    "synonyms": [
+      "Ogogoro"
+    ]
+  },
+  {
+    "value": "Old ale",
+    "synonyms": [
+      "Old ale"
+    ]
+  },
+  {
+    "value": "Palinka",
+    "synonyms": [
+      "Palinka"
+    ]
+  },
+  {
+    "value": "Paloma Cocktail",
+    "synonyms": [
+      "Paloma Cocktail"
+    ]
+  },
+  {
+    "value": "Parakari",
+    "synonyms": [
+      "Parakari "
+    ]
+  },
+  {
+    "value": "Planter\u0027s Punch",
+    "synonyms": [
+      "Planter\u0027s Punch   "
+    ]
+  },
+  {
+    "value": "Plum jerkum",
+    "synonyms": [
+      "Plum jerkum "
+    ]
+  },
+  {
+    "value": "Quentão",
+    "synonyms": [
+      "Quentão"
+    ]
+  },
+  {
+    "value": "Rickey",
+    "synonyms": [
+      "Rickey"
+    ]
+  },
+  {
+    "value": "Rossini Cocktail",
+    "synonyms": [
+      "Rossini Cocktail"
+    ]
+  },
+  {
+    "value": "Rum",
+    "synonyms": [
+      "Rum"
+    ]
+  },
+  {
+    "value": "Scotch whisky",
+    "synonyms": [
+      "Scotch whisky"
+    ]
+  },
+  {
+    "value": "Snakebite",
+    "synonyms": [
+      "Snakebite"
+    ]
+  },
+  {
+    "value": "Table wine",
+    "synonyms": [
+      "Table wine"
+    ]
+  },
+  {
+    "value": "Three Wise Men",
+    "synonyms": [
+      "Three Wise Men"
+    ]
+  },
+  {
+    "value": "Tinto de Verano",
+    "synonyms": [
+      "Tinto de Verano"
+    ]
+  },
+  {
+    "value": "Whisky",
+    "synonyms": [
+      "Whisky"
+    ]
+  },
+  {
+    "value": "Zurracapote",
+    "synonyms": [
+      "Zurracapote"
+    ]
+  },
+  {
+    "value": "Alabama Slammer",
+    "synonyms": [
+      "Alabama Slammer"
+    ]
+  },
+  {
+    "value": "Awamori",
+    "synonyms": [
+      "Awamori"
+    ]
+  },
+  {
+    "value": "Bee\u0027s Knees",
+    "synonyms": [
+      "Bee\u0027s Knees"
+    ]
+  },
+  {
+    "value": "Bloody Aztec",
+    "synonyms": [
+      "Bloody Aztec"
+    ]
+  },
+  {
+    "value": "Blue Blazer",
+    "synonyms": [
+      "Blue Blazer"
+    ]
+  },
+  {
+    "value": "Cauim",
+    "synonyms": [
+      "Cauim "
+    ]
+  },
+  {
+    "value": "Chocolate martini",
+    "synonyms": [
+      "Chocolate martini"
+    ]
+  },
+  {
+    "value": "Cognac",
+    "synonyms": [
+      "Cognac"
+    ]
+  },
+  {
+    "value": "Collins Cocktail",
+    "synonyms": [
+      "Collins Cocktail"
+    ]
+  },
+  {
+    "value": "El Presidente",
+    "synonyms": [
+      "El Presidente"
+    ]
+  },
+  {
+    "value": "Flaming Volcano",
+    "synonyms": [
+      "Flaming Volcano"
+    ]
+  },
+  {
+    "value": "Fruit brandy",
+    "synonyms": [
+      "Fruit brandy"
+    ]
+  },
+  {
+    "value": "Gunfire",
+    "synonyms": [
+      "Gunfire"
+    ]
+  },
+  {
+    "value": "Hot buttered rum",
+    "synonyms": [
+      "Hot buttered rum"
+    ]
+  },
+  {
+    "value": "London Fog",
+    "synonyms": [
+      "London Fog"
+    ]
+  },
+  {
+    "value": "Long Island Iced Tea",
+    "synonyms": [
+      "Long Island Iced Tea   "
+    ]
+  },
+  {
+    "value": "ManX Spirit",
+    "synonyms": [
+      "ManX Spirit"
+    ]
+  },
+  {
+    "value": "Margarita",
+    "synonyms": [
+      "Margarita   "
+    ]
+  },
+  {
+    "value": "Missouri Mule",
+    "synonyms": [
+      "Missouri Mule"
+    ]
+  },
+  {
+    "value": "Negroni",
+    "synonyms": [
+      "Negroni"
+    ]
+  },
+  {
+    "value": "Nihamanchi",
+    "synonyms": [
+      "Nihamanchi "
+    ]
+  },
+  {
+    "value": "Ouzini",
+    "synonyms": [
+      "Ouzini"
+    ]
+  },
+  {
+    "value": "Pink Gin",
+    "synonyms": [
+      "Pink Gin"
+    ]
+  },
+  {
+    "value": "Pisco Sour",
+    "synonyms": [
+      "Pisco Sour   "
+    ]
+  },
+  {
+    "value": "Poitín",
+    "synonyms": [
+      "Poitín"
+    ]
+  },
+  {
+    "value": "Porto flip",
+    "synonyms": [
+      "Porto flip   "
+    ]
+  },
+  {
+    "value": "Rakı",
+    "synonyms": [
+      "Rakı"
+    ]
+  },
+  {
+    "value": "Sonti",
+    "synonyms": [
+      "Sonti"
+    ]
+  },
+  {
+    "value": "Tennessee whiskey",
+    "synonyms": [
+      "Tennessee whiskey"
+    ]
+  },
+  {
+    "value": "Tom Collins",
+    "synonyms": [
+      "Tom Collins"
+    ]
+  },
+  {
+    "value": "Tonto",
+    "synonyms": [
+      "Tonto"
+    ]
+  },
+  {
+    "value": "Vesper Martini",
+    "synonyms": [
+      "Vesper Martini   "
+    ]
+  },
+  {
+    "value": "Vodka Martini or Kangaroo",
+    "synonyms": [
+      "Vodka Martini or Kangaroo"
+    ]
+  },
+  {
+    "value": "White Lady or Delilah",
+    "synonyms": [
+      "White Lady or Delilah"
+    ]
+  },
+  {
+    "value": "Williamine",
+    "synonyms": [
+      "Williamine"
+    ]
+  },
+  {
+    "value": "Wolfram",
+    "synonyms": [
+      "Wolfram"
+    ]
+  },
+  {
+    "value": "Yellow Bird",
+    "synonyms": [
+      "Yellow Bird"
+    ]
+  },
+  {
+    "value": "Arak",
+    "synonyms": [
+      "Arak"
+    ]
+  },
+  {
+    "value": "Bananarita",
+    "synonyms": [
+      "Bananarita"
+    ]
+  },
+  {
+    "value": "Bellini Cocktail",
+    "synonyms": [
+      "Bellini Cocktail"
+    ]
+  },
+  {
+    "value": "Buttery Nipple",
+    "synonyms": [
+      "Buttery Nipple"
+    ]
+  },
+  {
+    "value": "Dirty Mother Cocktail",
+    "synonyms": [
+      "Dirty Mother Cocktail"
+    ]
+  },
+  {
+    "value": "Gin Fizz",
+    "synonyms": [
+      "Gin Fizz   "
+    ]
+  },
+  {
+    "value": "Glögg",
+    "synonyms": [
+      "Glögg"
+    ]
+  },
+  {
+    "value": "Hanky-Panky",
+    "synonyms": [
+      "Hanky-Panky"
+    ]
+  },
+  {
+    "value": "Jack and Coke",
+    "synonyms": [
+      "Jack and Coke"
+    ]
+  },
+  {
+    "value": "Juan Collins",
+    "synonyms": [
+      "Juan Collins"
+    ]
+  },
+  {
+    "value": "Kensington Court Special",
+    "synonyms": [
+      "Kensington Court Special"
+    ]
+  },
+  {
+    "value": "Lorraine",
+    "synonyms": [
+      "Lorraine"
+    ]
+  },
+  {
+    "value": "Neutral grain spirit",
+    "synonyms": [
+      "Neutral grain spirit"
+    ]
+  },
+  {
+    "value": "Pimm\u0027s Cup",
+    "synonyms": [
+      "Pimm\u0027s Cup"
+    ]
+  },
+  {
+    "value": "Piña Colada",
+    "synonyms": [
+      "Piña Colada   "
+    ]
+  },
+  {
+    "value": "Red Russian",
+    "synonyms": [
+      "Red Russian"
+    ]
+  },
+  {
+    "value": "Scotch ale",
+    "synonyms": [
+      "Scotch ale"
+    ]
+  },
+  {
+    "value": "Skittle Bomb",
+    "synonyms": [
+      "Skittle Bomb"
+    ]
+  },
+  {
+    "value": "Smash",
+    "synonyms": [
+      "Smash"
+    ]
+  },
+  {
+    "value": "Vinsanto",
+    "synonyms": [
+      "Vinsanto"
+    ]
+  },
+  {
+    "value": "Whiskey sour",
+    "synonyms": [
+      "Whiskey sour"
+    ]
+  },
+  {
+    "value": "Apple Martini",
+    "synonyms": [
+      "Apple Martini"
+    ]
+  },
+  {
+    "value": "Aviation",
+    "synonyms": [
+      "Aviation   "
+    ]
+  },
+  {
+    "value": "Bitter ale",
+    "synonyms": [
+      "Bitter ale"
+    ]
+  },
+  {
+    "value": "Fish House Punch",
+    "synonyms": [
+      "Fish House Punch"
+    ]
+  },
+  {
+    "value": "Gin Sour",
+    "synonyms": [
+      "Gin Sour"
+    ]
+  },
+  {
+    "value": "Jazmin Sour",
+    "synonyms": [
+      "Jazmin Sour"
+    ]
+  },
+  {
+    "value": "Maotai",
+    "synonyms": [
+      "Maotai"
+    ]
+  },
+  {
+    "value": "Marsala",
+    "synonyms": [
+      "Marsala"
+    ]
+  },
+  {
+    "value": "Michelada",
+    "synonyms": [
+      "Michelada"
+    ]
+  },
+  {
+    "value": "Mint Julep",
+    "synonyms": [
+      "Mint Julep   "
+    ]
+  },
+  {
+    "value": "Ouzo",
+    "synonyms": [
+      "Ouzo"
+    ]
+  },
+  {
+    "value": "Paralyzer",
+    "synonyms": [
+      "Paralyzer"
+    ]
+  },
+  {
+    "value": "Perry",
+    "synonyms": [
+      "Perry "
+    ]
+  },
+  {
+    "value": "Pilsener",
+    "synonyms": [
+      "Pilsener "
+    ]
+  },
+  {
+    "value": "Ramos Gin Fizz",
+    "synonyms": [
+      "Ramos Gin Fizz   "
+    ]
+  },
+  {
+    "value": "Red Lotus",
+    "synonyms": [
+      "Red Lotus"
+    ]
+  },
+  {
+    "value": "Savoy Corpse Reviver",
+    "synonyms": [
+      "Savoy Corpse Reviver"
+    ]
+  },
+  {
+    "value": "Sex on the Beach",
+    "synonyms": [
+      "Sex on the Beach   "
+    ]
+  },
+  {
+    "value": "Sloe gin",
+    "synonyms": [
+      "Sloe gin"
+    ]
+  },
+  {
+    "value": "Soju",
+    "synonyms": [
+      "Soju"
+    ]
+  },
+  {
+    "value": "Staten Island Ferry",
+    "synonyms": [
+      "Staten Island Ferry"
+    ]
+  },
+  {
+    "value": "The Last Word",
+    "synonyms": [
+      "The Last Word"
+    ]
+  },
+  {
+    "value": "Vermouth",
+    "synonyms": [
+      "Vermouth"
+    ]
+  },
+  {
+    "value": "Wine",
+    "synonyms": [
+      "Wine"
+    ]
+  },
+  {
+    "value": "Bloodhound",
+    "synonyms": [
+      "Bloodhound"
+    ]
+  },
+  {
+    "value": "Bull Shot",
+    "synonyms": [
+      "Bull Shot"
+    ]
+  },
+  {
+    "value": "Cape Cod",
+    "synonyms": [
+      "Cape Cod"
+    ]
+  },
+  {
+    "value": "Damson gin",
+    "synonyms": [
+      "Damson gin"
+    ]
+  },
+  {
+    "value": "Flip",
+    "synonyms": [
+      "Flip"
+    ]
+  },
+  {
+    "value": "Fluffy Critter",
+    "synonyms": [
+      "Fluffy Critter"
+    ]
+  },
+  {
+    "value": "Gin pahit",
+    "synonyms": [
+      "Gin pahit"
+    ]
+  },
+  {
+    "value": "Green Russians",
+    "synonyms": [
+      "Green Russians"
+    ]
+  },
+  {
+    "value": "Harvey Wallbanger",
+    "synonyms": [
+      "Harvey Wallbanger   "
+    ]
+  },
+  {
+    "value": "Jamaican Coffee",
+    "synonyms": [
+      "Jamaican Coffee"
+    ]
+  },
+  {
+    "value": "Matador",
+    "synonyms": [
+      "Matador"
+    ]
+  },
+  {
+    "value": "Mild ale",
+    "synonyms": [
+      "Mild ale"
+    ]
+  },
+  {
+    "value": "Pall Mall",
+    "synonyms": [
+      "Pall Mall"
+    ]
+  },
+  {
+    "value": "Porter",
+    "synonyms": [
+      "Porter"
+    ]
+  },
+  {
+    "value": "Rusty Nail",
+    "synonyms": [
+      "Rusty Nail   "
+    ]
+  },
+  {
+    "value": "Sahti",
+    "synonyms": [
+      "Sahti "
+    ]
+  },
+  {
+    "value": "Shirley Temple Black",
+    "synonyms": [
+      "Shirley Temple Black"
+    ]
+  },
+  {
+    "value": "Shochu",
+    "synonyms": [
+      "Shochu"
+    ]
+  },
+  {
+    "value": "Sling",
+    "synonyms": [
+      "Sling"
+    ]
+  },
+  {
+    "value": "Spritzer",
+    "synonyms": [
+      "Spritzer"
+    ]
+  },
+  {
+    "value": "Tepache",
+    "synonyms": [
+      "Tepache"
+    ]
+  },
+  {
+    "value": "Terry Cocktail",
+    "synonyms": [
+      "Terry Cocktail"
+    ]
+  },
+  {
+    "value": "Tuxedo",
+    "synonyms": [
+      "Tuxedo   "
+    ]
+  },
+  {
+    "value": "Ward 8",
+    "synonyms": [
+      "Ward 8"
+    ]
+  },
+  {
+    "value": "Akvavit",
+    "synonyms": [
+      "Akvavit"
+    ]
+  },
+  {
+    "value": "Angel Face",
+    "synonyms": [
+      "Angel Face   "
+    ]
+  },
+  {
+    "value": "Bock",
+    "synonyms": [
+      "Bock "
+    ]
+  },
+  {
+    "value": "Borovička",
+    "synonyms": [
+      "Borovička"
+    ]
+  },
+  {
+    "value": "Bourbon Lancer",
+    "synonyms": [
+      "Bourbon Lancer"
+    ]
+  },
+  {
+    "value": "Bramble",
+    "synonyms": [
+      "Bramble   "
+    ]
+  },
+  {
+    "value": "Brandy Sour",
+    "synonyms": [
+      "Brandy Sour"
+    ]
+  },
+  {
+    "value": "Brut Cocktail",
+    "synonyms": [
+      "Brut Cocktail"
+    ]
+  },
+  {
+    "value": "Bushwacker",
+    "synonyms": [
+      "Bushwacker"
+    ]
+  },
+  {
+    "value": "Chicha",
+    "synonyms": [
+      "Chicha "
+    ]
+  },
+  {
+    "value": "Crusta",
+    "synonyms": [
+      "Crusta"
+    ]
+  },
+  {
+    "value": "Derby",
+    "synonyms": [
+      "Derby   "
+    ]
+  },
+  {
+    "value": "Fizzy apple cocktail",
+    "synonyms": [
+      "Fizzy apple cocktail"
+    ]
+  },
+  {
+    "value": "Golden Doublet",
+    "synonyms": [
+      "Golden Doublet"
+    ]
+  },
+  {
+    "value": "Gose",
+    "synonyms": [
+      "Gose"
+    ]
+  },
+  {
+    "value": "Midori Sour",
+    "synonyms": [
+      "Midori Sour"
+    ]
+  },
+  {
+    "value": "Moloko Plus",
+    "synonyms": [
+      "Moloko Plus"
+    ]
+  },
+  {
+    "value": "Mudslide",
+    "synonyms": [
+      "Mudslide"
+    ]
+  },
+  {
+    "value": "Painkiller",
+    "synonyms": [
+      "Painkiller"
+    ]
+  },
+  {
+    "value": "Port",
+    "synonyms": [
+      "Port"
+    ]
+  },
+  {
+    "value": "Prince of Wales",
+    "synonyms": [
+      "Prince of Wales"
+    ]
+  },
+  {
+    "value": "Sparkling wine",
+    "synonyms": [
+      "Sparkling wine"
+    ]
+  },
+  {
+    "value": "Tequila Sour",
+    "synonyms": [
+      "Tequila Sour"
+    ]
+  },
+  {
+    "value": "Ti\u0027 Punch",
+    "synonyms": [
+      "Ti\u0027 Punch"
+    ]
+  },
+  {
+    "value": "Absinthe",
+    "synonyms": [
+      "Absinthe"
+    ]
+  },
+  {
+    "value": "Agua de Valencia",
+    "synonyms": [
+      "Agua de Valencia"
+    ]
+  },
+  {
+    "value": "Boilermaker",
+    "synonyms": [
+      "Boilermaker"
+    ]
+  },
+  {
+    "value": "Cachaça",
+    "synonyms": [
+      "Cachaça"
+    ]
+  },
+  {
+    "value": "Clover Club Cocktail",
+    "synonyms": [
+      "Clover Club Cocktail   "
+    ]
+  },
+  {
+    "value": "Colombia",
+    "synonyms": [
+      "Colombia"
+    ]
+  },
+  {
+    "value": "Daiquiri",
+    "synonyms": [
+      "Daiquiri   "
+    ]
+  },
+  {
+    "value": "Fortified wine",
+    "synonyms": [
+      "Fortified wine"
+    ]
+  },
+  {
+    "value": "Gin",
+    "synonyms": [
+      "Gin"
+    ]
+  },
+  {
+    "value": "Icariine Liquor",
+    "synonyms": [
+      "Icariine Liquor"
+    ]
+  },
+  {
+    "value": "Incredible Hulk Cocktail",
+    "synonyms": [
+      "Incredible Hulk Cocktail"
+    ]
+  },
+  {
+    "value": "Jagertee",
+    "synonyms": [
+      "Jagertee"
+    ]
+  },
+  {
+    "value": "Japanese Slipper",
+    "synonyms": [
+      "Japanese Slipper"
+    ]
+  },
+  {
+    "value": "Kirsch",
+    "synonyms": [
+      "Kirsch"
+    ]
+  },
+  {
+    "value": "Manhattan Cocktail",
+    "synonyms": [
+      "Manhattan Cocktail "
+    ]
+  },
+  {
+    "value": "Nikolaschka",
+    "synonyms": [
+      "Nikolaschka"
+    ]
+  },
+  {
+    "value": "Pale lager",
+    "synonyms": [
+      "Pale lager "
+    ]
+  },
+  {
+    "value": "Royce",
+    "synonyms": [
+      "Royce"
+    ]
+  },
+  {
+    "value": "Rum Swizzle",
+    "synonyms": [
+      "Rum Swizzle"
+    ]
+  },
+  {
+    "value": "Sazerac",
+    "synonyms": [
+      "Sazerac   "
+    ]
+  },
+  {
+    "value": "Screwdriver",
+    "synonyms": [
+      "Screwdriver   "
+    ]
+  },
+  {
+    "value": "Singani",
+    "synonyms": [
+      "Singani"
+    ]
+  },
+  {
+    "value": "Stock ale",
+    "synonyms": [
+      "Stock ale"
+    ]
+  },
+  {
+    "value": "Tequila",
+    "synonyms": [
+      "Tequila"
+    ]
+  },
+  {
+    "value": "Torito Tequila Cocktail",
+    "synonyms": [
+      "Torito Tequila Cocktail"
+    ]
+  },
+  {
+    "value": "Agua de Sevilla",
+    "synonyms": [
+      "Agua de Sevilla"
+    ]
+  },
+  {
+    "value": "Batida",
+    "synonyms": [
+      "Batida"
+    ]
+  },
+  {
+    "value": "Bumbo",
+    "synonyms": [
+      "Bumbo "
+    ]
+  },
+  {
+    "value": "Cuba Libre",
+    "synonyms": [
+      "Cuba Libre   "
+    ]
+  },
+  {
+    "value": "Curacao Punch",
+    "synonyms": [
+      "Curacao Punch"
+    ]
+  },
+  {
+    "value": "Daisy",
+    "synonyms": [
+      "Daisy"
+    ]
+  },
+  {
+    "value": "Godfather Cocktail",
+    "synonyms": [
+      "Godfather Cocktail"
+    ]
+  },
+  {
+    "value": "Godmother",
+    "synonyms": [
+      "Godmother   "
+    ]
+  },
+  {
+    "value": "Irish Coffee",
+    "synonyms": [
+      "Irish Coffee   "
+    ]
+  },
+  {
+    "value": "Kir Royal",
+    "synonyms": [
+      "Kir Royal"
+    ]
+  },
+  {
+    "value": "Leite de Onça",
+    "synonyms": [
+      "Leite de Onça"
+    ]
+  },
+  {
+    "value": "Long Island Iced Tea",
+    "synonyms": [
+      "Long Island Iced Tea"
+    ]
+  },
+  {
+    "value": "Negroni",
+    "synonyms": [
+      "Negroni   "
+    ]
+  },
+  {
+    "value": "Negus",
+    "synonyms": [
+      "Negus"
+    ]
+  },
+  {
+    "value": "Polar Bear",
+    "synonyms": [
+      "Polar Bear"
+    ]
+  },
+  {
+    "value": "Ruby Dutchess",
+    "synonyms": [
+      "Ruby Dutchess"
+    ]
+  },
+  {
+    "value": "Sangria",
+    "synonyms": [
+      "Sangria"
+    ]
+  },
+  {
+    "value": "Shandy",
+    "synonyms": [
+      "Shandy"
+    ]
+  },
+  {
+    "value": "Tequila Sunrise",
+    "synonyms": [
+      "Tequila Sunrise   "
+    ]
+  },
+  {
+    "value": "The Blenheim",
+    "synonyms": [
+      "The Blenheim"
+    ]
+  },
+  {
+    "value": "Vodka Gimlet",
+    "synonyms": [
+      "Vodka Gimlet"
+    ]
+  },
+  {
+    "value": "Zombie Cocktail",
+    "synonyms": [
+      "Zombie Cocktail"
+    ]
+  },
+  {
+    "value": "Agent Orange",
+    "synonyms": [
+      "Agent Orange"
+    ]
+  },
+  {
+    "value": "Applejack",
+    "synonyms": [
+      "Applejack"
+    ]
+  },
+  {
+    "value": "Between the Sheets",
+    "synonyms": [
+      "Between the Sheets   "
+    ]
+  },
+  {
+    "value": "Black and Tan",
+    "synonyms": [
+      "Black and Tan"
+    ]
+  },
+  {
+    "value": "Blueberry Tea Cocktail",
+    "synonyms": [
+      "Blueberry Tea Cocktail"
+    ]
+  },
+  {
+    "value": "Bobby Burns",
+    "synonyms": [
+      "Bobby Burns"
+    ]
+  },
+  {
+    "value": "Bourbon whiskey",
+    "synonyms": [
+      "Bourbon whiskey"
+    ]
+  },
+  {
+    "value": "Brooklyn Cocktail",
+    "synonyms": [
+      "Brooklyn Cocktail"
+    ]
+  },
+  {
+    "value": "Caipiroska",
+    "synonyms": [
+      "Caipiroska"
+    ]
+  },
+  {
+    "value": "Fizz",
+    "synonyms": [
+      "Fizz"
+    ]
+  },
+  {
+    "value": "French 75",
+    "synonyms": [
+      "French 75   "
+    ]
+  },
+  {
+    "value": "Grog",
+    "synonyms": [
+      "Grog"
+    ]
+  },
+  {
+    "value": "Hennchata",
+    "synonyms": [
+      "Hennchata"
+    ]
+  },
+  {
+    "value": "Hi-fi",
+    "synonyms": [
+      "Hi-fi"
+    ]
+  },
+  {
+    "value": "Irish whiskey",
+    "synonyms": [
+      "Irish whiskey"
+    ]
+  },
+  {
+    "value": "Julep",
+    "synonyms": [
+      "Julep"
+    ]
+  },
+  {
+    "value": "Kaoliang",
+    "synonyms": [
+      "Kaoliang"
+    ]
+  },
+  {
+    "value": "Monkey Gland",
+    "synonyms": [
+      "Monkey Gland   "
+    ]
+  },
+  {
+    "value": "Nixon Cocktail",
+    "synonyms": [
+      "Nixon Cocktail"
+    ]
+  },
+  {
+    "value": "Old Etonian",
+    "synonyms": [
+      "Old Etonian"
+    ]
+  },
+  {
+    "value": "Orgasm Cocktail",
+    "synonyms": [
+      "Orgasm Cocktail"
+    ]
+  },
+  {
+    "value": "Rakia",
+    "synonyms": [
+      "Rakia"
+    ]
+  },
+  {
+    "value": "Royal Arrival",
+    "synonyms": [
+      "Royal Arrival"
+    ]
+  },
+  {
+    "value": "Salmiakki Koskenkorva",
+    "synonyms": [
+      "Salmiakki Koskenkorva"
+    ]
+  },
+  {
+    "value": "Singapore Sling",
+    "synonyms": [
+      "Singapore Sling   "
+    ]
+  },
+  {
+    "value": "Slivovitz",
+    "synonyms": [
+      "Slivovitz"
+    ]
+  },
+  {
+    "value": "Sour",
+    "synonyms": [
+      "Sour"
+    ]
+  },
+  {
+    "value": "Wheat beer",
+    "synonyms": [
+      "Wheat beer "
+    ]
+  },
+  {
+    "value": "20th Century Cocktail",
+    "synonyms": [
+      "20th Century Cocktail"
+    ]
+  },
+  {
+    "value": "Aperol Spritz",
+    "synonyms": [
+      "Aperol Spritz"
+    ]
+  },
+  {
+    "value": "Apple-Kneel",
+    "synonyms": [
+      "Apple-Kneel"
+    ]
+  },
+  {
+    "value": "Armagnac",
+    "synonyms": [
+      "Armagnac"
+    ]
+  },
+  {
+    "value": "Bishop",
+    "synonyms": [
+      "Bishop"
+    ]
+  },
+  {
+    "value": "Blue Hawaii",
+    "synonyms": [
+      "Blue Hawaii"
+    ]
+  },
+  {
+    "value": "Damassine",
+    "synonyms": [
+      "Damassine"
+    ]
+  },
+  {
+    "value": "Farnell Cocktail",
+    "synonyms": [
+      "Farnell Cocktail"
+    ]
+  },
+  {
+    "value": "Fix Cocktail",
+    "synonyms": [
+      "Fix Cocktail"
+    ]
+  },
+  {
+    "value": "Madeira",
+    "synonyms": [
+      "Madeira"
+    ]
+  },
+  {
+    "value": "Negroni Sbagliato",
+    "synonyms": [
+      "Negroni Sbagliato"
+    ]
+  },
+  {
+    "value": "Old Spanish",
+    "synonyms": [
+      "Old Spanish"
+    ]
+  },
+  {
+    "value": "Pulque",
+    "synonyms": [
+      "Pulque "
+    ]
+  },
+  {
+    "value": "Punch",
+    "synonyms": [
+      "Punch"
+    ]
+  },
+  {
+    "value": "Sake Bomb",
+    "synonyms": [
+      "Sake Bomb"
+    ]
+  },
+  {
+    "value": "Shrub",
+    "synonyms": [
+      "Shrub"
+    ]
+  },
+  {
+    "value": "Sidecar",
+    "synonyms": [
+      "Sidecar   "
+    ]
+  },
+  {
+    "value": "Springbokkie",
+    "synonyms": [
+      "Springbokkie"
+    ]
+  },
+  {
+    "value": "Stinger",
+    "synonyms": [
+      "Stinger"
+    ]
+  },
+  {
+    "value": "Tequila Mockingbird",
+    "synonyms": [
+      "Tequila Mockingbird"
+    ]
+  },
+  {
+    "value": "U-Boot",
+    "synonyms": [
+      "U-Boot"
+    ]
+  },
+  {
+    "value": "Aguaymanto Sour",
+    "synonyms": [
+      "Aguaymanto Sour"
+    ]
+  },
+  {
+    "value": "Blue Lagoon",
+    "synonyms": [
+      "Blue Lagoon"
+    ]
+  },
+  {
+    "value": "Brandy Manhattan",
+    "synonyms": [
+      "Brandy Manhattan"
+    ]
+  },
+  {
+    "value": "Chimayó Cocktail",
+    "synonyms": [
+      "Chimayó Cocktail"
+    ]
+  },
+  {
+    "value": "Churchill Cocktail",
+    "synonyms": [
+      "Churchill Cocktail"
+    ]
+  },
+  {
+    "value": "Death in the Afternoon",
+    "synonyms": [
+      "Death in the Afternoon"
+    ]
+  },
+  {
+    "value": "French Connection",
+    "synonyms": [
+      "French Connection"
+    ]
+  },
+  {
+    "value": "French Connection",
+    "synonyms": [
+      "French Connection   "
+    ]
+  },
+  {
+    "value": "Golden Dream",
+    "synonyms": [
+      "Golden Dream"
+    ]
+  },
+  {
+    "value": "Havana Cooler",
+    "synonyms": [
+      "Havana Cooler"
+    ]
+  },
+  {
+    "value": "Hurricane",
+    "synonyms": [
+      "Hurricane"
+    ]
+  },
+  {
+    "value": "Irish Car Bomb",
+    "synonyms": [
+      "Irish Car Bomb"
+    ]
+  },
+  {
+    "value": "Martini",
+    "synonyms": [
+      "Martini   "
+    ]
+  },
+  {
+    "value": "Mickey Slim",
+    "synonyms": [
+      "Mickey Slim"
+    ]
+  },
+  {
+    "value": "Palm wine",
+    "synonyms": [
+      "Palm wine"
+    ]
+  },
+  {
+    "value": "Royal Bermuda Cocktail",
+    "synonyms": [
+      "Royal Bermuda Cocktail"
+    ]
+  },
+  {
+    "value": "Rye whiskey",
+    "synonyms": [
+      "Rye whiskey"
+    ]
+  },
+  {
+    "value": "Salty Dog",
+    "synonyms": [
+      "Salty Dog"
+    ]
+  },
+  {
+    "value": "Sea Breeze",
+    "synonyms": [
+      "Sea Breeze   "
+    ]
+  },
+  {
+    "value": "Slippery Nipple",
+    "synonyms": [
+      "Slippery Nipple"
+    ]
+  },
+  {
+    "value": "Tamagozake",
+    "synonyms": [
+      "Tamagozake"
+    ]
+  },
+  {
+    "value": "Tschunk",
+    "synonyms": [
+      "Tschunk"
+    ]
+  },
+  {
+    "value": "Vodka McGovern",
+    "synonyms": [
+      "Vodka McGovern"
+    ]
+  },
+  {
+    "value": "Vodka Sundowner",
+    "synonyms": [
+      "Vodka Sundowner"
+    ]
+  },
+  {
+    "value": "Woo Woo",
+    "synonyms": [
+      "Woo Woo"
+    ]
+  },
+  {
+    "value": "Bay Breeze",
+    "synonyms": [
+      "Bay Breeze"
+    ]
+  },
+  {
+    "value": "BLT cocktail",
+    "synonyms": [
+      "BLT cocktail"
+    ]
+  },
+  {
+    "value": "Caesar Cocktail",
+    "synonyms": [
+      "Caesar Cocktail"
+    ]
+  },
+  {
+    "value": "Caipirinha",
+    "synonyms": [
+      "Caipirinha "
+    ]
+  },
+  {
+    "value": "Canadian whisky",
+    "synonyms": [
+      "Canadian whisky"
+    ]
+  },
+  {
+    "value": "Chi-Chi",
+    "synonyms": [
+      "Chi-Chi"
+    ]
+  },
+  {
+    "value": "Cobbler",
+    "synonyms": [
+      "Cobbler"
+    ]
+  },
+  {
+    "value": "Corn N\u0027 Oil",
+    "synonyms": [
+      "Corn N\u0027 Oil"
+    ]
+  },
+  {
+    "value": "Dark and Stormy",
+    "synonyms": [
+      "Dark and Stormy   "
+    ]
+  },
+  {
+    "value": "Four Horsemen",
+    "synonyms": [
+      "Four Horsemen"
+    ]
+  },
+  {
+    "value": "Fuzzy Navel",
+    "synonyms": [
+      "Fuzzy Navel"
+    ]
+  },
+  {
+    "value": "Greyhound",
+    "synonyms": [
+      "Greyhound"
+    ]
+  },
+  {
+    "value": "Jack Rose",
+    "synonyms": [
+      "Jack Rose"
+    ]
+  },
+  {
+    "value": "Kamikaze",
+    "synonyms": [
+      "Kamikaze   "
+    ]
+  },
+  {
+    "value": "Kir",
+    "synonyms": [
+      "Kir   "
+    ]
+  },
+  {
+    "value": "Kumis",
+    "synonyms": [
+      "Kumis "
+    ]
+  },
+  {
+    "value": "Lager",
+    "synonyms": [
+      "Lager"
+    ]
+  },
+  {
+    "value": "Lemon Drop",
+    "synonyms": [
+      "Lemon Drop"
+    ]
+  },
+  {
+    "value": "Lime Rickey",
+    "synonyms": [
+      "Lime Rickey"
+    ]
+  },
+  {
+    "value": "Mead",
+    "synonyms": [
+      "Mead"
+    ]
+  },
+  {
+    "value": "Metaxa",
+    "synonyms": [
+      "Metaxa"
+    ]
+  },
+  {
+    "value": "Moscow Mule",
+    "synonyms": [
+      "Moscow Mule   "
+    ]
+  },
+  {
+    "value": "Old Fashioned",
+    "synonyms": [
+      "Old Fashioned   "
+    ]
+  },
+  {
+    "value": "Orange Tundra",
+    "synonyms": [
+      "Orange Tundra"
+    ]
+  },
+  {
+    "value": "Pale ale",
+    "synonyms": [
+      "Pale ale"
+    ]
+  },
+  {
+    "value": "Paradise",
+    "synonyms": [
+      "Paradise   "
+    ]
+  },
+  {
+    "value": "Sakurá",
+    "synonyms": [
+      "Sakurá "
+    ]
+  },
+  {
+    "value": "Savoy Affair",
+    "synonyms": [
+      "Savoy Affair"
+    ]
+  },
+  {
+    "value": "Sundowner",
+    "synonyms": [
+      "Sundowner"
+    ]
+  },
+  {
+    "value": "The T.J.",
+    "synonyms": [
+      "The T.J."
+    ]
+  },
+  {
+    "value": "Tiswin",
+    "synonyms": [
+      "Tiswin"
+    ]
+  },
+  {
+    "value": "Two kids in A Cup",
+    "synonyms": [
+      "Two kids in A Cup"
+    ]
+  },
+  {
+    "value": "Yorsh",
+    "synonyms": [
+      "Yorsh"
+    ]
+  },
+  {
+    "value": "A Black Jack",
+    "synonyms": [
+      "A Black Jack"
+    ]
+  },
+  {
+    "value": "B \u0026 B",
+    "synonyms": [
+      "B \u0026 B"
+    ]
+  },
+  {
+    "value": "B-52",
+    "synonyms": [
+      "B-52"
+    ]
+  },
+  {
+    "value": "Baijiu",
+    "synonyms": [
+      "Baijiu"
+    ]
+  },
+  {
+    "value": "Barleywine",
+    "synonyms": [
+      "Barleywine"
+    ]
+  },
+  {
+    "value": "Bijou",
+    "synonyms": [
+      "Bijou"
+    ]
+  },
+  {
+    "value": "Brandy",
+    "synonyms": [
+      "Brandy"
+    ]
+  },
+  {
+    "value": "Buck\u0027s Fizz",
+    "synonyms": [
+      "Buck\u0027s Fizz"
+    ]
+  },
+  {
+    "value": "Casino Cocktail",
+    "synonyms": [
+      "Casino Cocktail"
+    ]
+  },
+  {
+    "value": "Corpse Reviver",
+    "synonyms": [
+      "Corpse Reviver"
+    ]
+  },
+  {
+    "value": "Culto A La Vida",
+    "synonyms": [
+      "Culto A La Vida"
+    ]
+  },
+  {
+    "value": "1921 Tequila Cream",
+    "synonyms": [
+      "1921 Tequila Cream"
+    ]
+  },
+  {
+    "value": "Amber Moon",
+    "synonyms": [
+      "Amber Moon"
+    ]
+  },
+  {
+    "value": "Beer",
+    "synonyms": [
+      "Beer"
+    ]
+  },
+  {
+    "value": "Brass Monkey",
+    "synonyms": [
+      "Brass Monkey"
+    ]
+  },
+  {
+    "value": "Earthquake",
+    "synonyms": [
+      "Earthquake"
+    ]
+  },
+  {
+    "value": "Fruit beer",
+    "synonyms": [
+      "Fruit beer"
+    ]
+  },
+  {
+    "value": "Gin buck",
+    "synonyms": [
+      "Gin buck"
+    ]
+  },
+  {
+    "value": "Godmother Cocktail",
+    "synonyms": [
+      "Godmother Cocktail"
+    ]
+  },
+  {
+    "value": "Jungle Juice",
+    "synonyms": [
+      "Jungle Juice"
+    ]
+  },
+  {
+    "value": "Kasiri",
+    "synonyms": [
+      "Kasiri"
+    ]
+  },
+  {
+    "value": "Kilju",
+    "synonyms": [
+      "Kilju"
+    ]
+  },
+  {
+    "value": "Mango Sour",
+    "synonyms": [
+      "Mango Sour"
+    ]
+  },
+  {
+    "value": "Stout",
+    "synonyms": [
+      "Stout"
+    ]
+  },
+  {
+    "value": "The Goldeneye",
+    "synonyms": [
+      "The Goldeneye"
+    ]
+  },
+  {
+    "value": "Vodka",
+    "synonyms": [
+      "Vodka"
+    ]
+  },
+  {
+    "value": "Ţuică",
+    "synonyms": [
+      "Ţuică"
+    ]
+  },
+  {
+    "value": "Cosmopolitan",
+    "synonyms": [
+      "Cosmopolitan   "
+    ]
+  },
+  {
+    "value": "Flirtini",
+    "synonyms": [
+      "Flirtini"
+    ]
+  },
+  {
+    "value": "Gibson",
+    "synonyms": [
+      "Gibson"
+    ]
+  },
+  {
+    "value": "Horse\u0027s Neck",
+    "synonyms": [
+      "Horse\u0027s Neck   "
+    ]
+  },
+  {
+    "value": "Mimosa",
+    "synonyms": [
+      "Mimosa   "
+    ]
+  },
+  {
+    "value": "Mojito",
+    "synonyms": [
+      "Mojito   "
+    ]
+  },
+  {
+    "value": "My Fair Lady",
+    "synonyms": [
+      "My Fair Lady"
+    ]
+  },
+  {
+    "value": "Oatmeal Cookie",
+    "synonyms": [
+      "Oatmeal Cookie"
+    ]
+  },
+  {
+    "value": "Pegu",
+    "synonyms": [
+      "Pegu"
+    ]
+  },
+  {
+    "value": "Porchcrawler",
+    "synonyms": [
+      "Porchcrawler"
+    ]
+  },
+  {
+    "value": "Rabo-de-galo",
+    "synonyms": [
+      "Rabo-de-galo"
+    ]
+  },
+  {
+    "value": "Screaming Orgasm",
+    "synonyms": [
+      "Screaming Orgasm"
+    ]
+  },
+  {
+    "value": "Stinger",
+    "synonyms": [
+      "Stinger   "
+    ]
+  },
+  {
+    "value": "Toddy",
+    "synonyms": [
+      "Toddy"
+    ]
+  },
+  {
+    "value": "Whisky Mac",
+    "synonyms": [
+      "Whisky Mac"
+    ]
+  },
+  {
+    "value": "White Russian",
+    "synonyms": [
+      "White Russian"
+    ]
+  }
+]

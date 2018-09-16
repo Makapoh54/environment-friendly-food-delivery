@@ -1,0 +1,37 @@
+[
+  {
+    "value": "brunch",
+    "synonyms": [
+      "brunch"
+    ]
+  },
+  {
+    "value": "breakfast",
+    "synonyms": [
+      "breakfast",
+      "breakfast and brunch",
+      "breakfast n brunch"
+    ]
+  },
+  {
+    "value": "lunch",
+    "synonyms": [
+      "lunch"
+    ]
+  },
+  {
+    "value": "snack",
+    "synonyms": [
+      "snack",
+      "light meal",
+      "grab a bite"
+    ]
+  },
+  {
+    "value": "dinner",
+    "synonyms": [
+      "dinner",
+      "supper"
+    ]
+  }
+]

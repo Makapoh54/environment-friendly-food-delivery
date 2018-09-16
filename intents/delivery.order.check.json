@@ -1,0 +1,41 @@
+{
+  "id": "5014cfac-10f3-46e5-823c-e24d20a90c45",
+  "name": "delivery.order.check",
+  "auto": true,
+  "contexts": [
+    "delivery-check"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.order.check",
+      "affectedContexts": [
+        {
+          "name": "deliveryordercheck-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "#delivery-check.message"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537018852,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "initiate-check"
+    }
+  ]
+}

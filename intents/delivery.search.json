@@ -1,0 +1,121 @@
+{
+  "id": "4e37ba87-5373-4fca-97f6-3aaff24f03e1",
+  "name": "delivery.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.search",
+      "affectedContexts": [
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "deliverysearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6d4b79a7-25f4-4e92-bc5c-13acf5168dd4",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "isList": true
+        },
+        {
+          "id": "3c97be99-2d3b-407e-a112-1e42aa1f2360",
+          "required": false,
+          "dataType": "@delivery-product",
+          "name": "product",
+          "value": "$product",
+          "isList": true
+        },
+        {
+          "id": "3a570b55-b889-4b7f-8421-f0dc6e90d2f5",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        },
+        {
+          "id": "45562232-c906-4d7a-b3d2-4150c652d5a9",
+          "required": false,
+          "dataType": "@cuisine",
+          "name": "cuisine",
+          "value": "$cuisine",
+          "isList": false
+        },
+        {
+          "id": "716f5cce-1725-4cb1-8f53-ed667273b449",
+          "required": false,
+          "dataType": "@meal",
+          "name": "meal",
+          "value": "$meal",
+          "isList": false
+        },
+        {
+          "id": "a74cfd40-fdf4-4082-9055-5f3c50cd5d20",
+          "required": false,
+          "dataType": "@venue-eating-out-chain",
+          "name": "venue-chain",
+          "value": "$venue-chain",
+          "isList": false
+        },
+        {
+          "id": "f0660a8d-db6f-4838-81a2-0fe0338d6659",
+          "required": false,
+          "dataType": "@map-sort",
+          "name": "sort",
+          "value": "$sort",
+          "isList": true
+        },
+        {
+          "id": "cbbc5ae7-c8b5-40a3-bc34-2c4fc66e1b30",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        },
+        {
+          "id": "23397ddd-c791-44c0-aa08-d84c67e6417a",
+          "required": false,
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "isList": false
+        },
+        {
+          "id": "fd57e56c-ff8d-4714-84a0-00897d96b20a",
+          "required": false,
+          "dataType": "@delivery-product",
+          "name": "swap_product_from",
+          "value": "$swap_product_from",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537025095,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,52 @@
+{
+  "description": "Sometimes users want to stay in, but don\u0027t always want to cook. This agent lets them order food and drinks for home delivery. They can place new orders or modify existing orders to make sure they get what they want.",
+  "language": "en",
+  "shortDescription": "Create and manage food and drink orders",
+  "examples": "User: I want to order 3 pizzas and 6 bottles of sparkling water.\nUser: Remove the burger from my order.\nUser: Could I order some Chinese food please?\nUser: How long will it take to deliver my order?\nUser: Swap the pizza for a lentil soup.\nUser: Check what I\u0027ve ordered.",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "food-delivery-e6cef",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "4e37ba87-5373-4fca-97f6-3aaff24f03e1",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "a64d789e-d7a3-4f70-82e4-6bb11181f7be",
+      "7f62b643-fdad-46b2-9d2c-c1b0155d0700",
+      "a3c7426e-06ba-4443-aef8-e9aff5554721"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-central1-food-delivery-e6cef.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

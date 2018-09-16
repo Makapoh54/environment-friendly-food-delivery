@@ -1,0 +1,32 @@
+{
+  "id": "58164443-974b-4c78-bf85-4680349be4f8",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sorry, I don\u0027t understand you. Let\u0027s start again. What do you want to eat?",
+            "Sorry, I don\u0027t understand you. Let\u0027s start again. Are you hungry?",
+            "Sorry, I don\u0027t understand you. Let\u0027s start again. Do you want to order something?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537026338,
+  "fallbackIntent": true,
+  "events": []
+}

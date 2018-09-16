@@ -1,0 +1,2816 @@
+[
+  {
+    "id": "96a48b79-6a93-4ff1-b434-d745fead45f1",
+    "data": [
+      {
+        "text": "Order ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968195
+  },
+  {
+    "id": "185c5dc4-b351-4ec9-80e2-808450d91300",
+    "data": [
+      {
+        "text": "Order ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968195
+  },
+  {
+    "id": "ab9286ce-f35e-4575-bbba-b3e8385925fd",
+    "data": [
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967532
+  },
+  {
+    "id": "1e776b92-d820-4b7b-8013-252c6598ac25",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968195
+  },
+  {
+    "id": "76685ca4-ea46-435a-a7d1-c9840c191ff9",
+    "data": [
+      {
+        "text": "deliver me ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968195
+  },
+  {
+    "id": "c732903c-9632-49ef-97f1-b032096dbacb",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968195
+  },
+  {
+    "id": "d77ff5e3-b38c-485d-ba8a-971e6d4e8394",
+    "data": [
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968000
+  },
+  {
+    "id": "631100f6-a6ce-4032-a7db-0e4aba42121a",
+    "data": [
+      {
+        "text": "I want to order ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968000
+  },
+  {
+    "id": "7405f31a-017a-4539-ae77-ff25c47980ff",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968000
+  },
+  {
+    "id": "0f824e43-8296-42d7-915e-eaae9cbba2e6",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968000
+  },
+  {
+    "id": "ef43d30f-aa53-413d-80b2-fd505995c399",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536968000
+  },
+  {
+    "id": "cebf3ae6-2459-4c69-94e1-20c7ffe07242",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967661
+  },
+  {
+    "id": "00da506f-54f7-4558-b90a-78ff71403f56",
+    "data": [
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1536967532
+  },
+  {
+    "id": "0f2222b7-cca7-4270-93a2-3c554455d5a7",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967532
+  },
+  {
+    "id": "4b08754d-b366-490f-8f8d-0894d652dce7",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967532
+  },
+  {
+    "id": "6d243229-0599-4ec9-8c9c-2c3a62c6be75",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967307
+  },
+  {
+    "id": "abedccef-074e-4fb2-8585-ff73714e1494",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536964328
+  },
+  {
+    "id": "f0dd4f46-9309-43b1-b0e5-a0c63fa9a15e",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967532
+  },
+  {
+    "id": "f55cede1-29e6-43ce-84a6-4c67aaf7e491",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967532
+  },
+  {
+    "id": "1b9a251f-19d7-42e2-a3ab-9943dc7a6ab2",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536965312
+  },
+  {
+    "id": "91d8c4da-2651-462d-87bc-7975c04e5495",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536967307
+  },
+  {
+    "id": "e3fa0f90-5c31-424e-8c0c-109adaed5261",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967176
+  },
+  {
+    "id": "f5ec00f9-12cb-4a09-a057-bfce9014b814",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536967176
+  },
+  {
+    "id": "54cd5500-bc04-49ca-baf3-cbaeb4f7f97a",
+    "data": [
+      {
+        "text": "Order ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to the ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967176
+  },
+  {
+    "id": "a447af8f-37f6-4c22-b314-fc66d6f77445",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to be delivered to the ",
+        "userDefined": false
+      },
+      {
+        "text": "techopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967176
+  },
+  {
+    "id": "dde27f36-4df6-4678-bb32-ffcd2ebb5b33",
+    "data": [
+      {
+        "text": "We want ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to be delivered at ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967176
+  },
+  {
+    "id": "17ca030e-3a9e-4afe-a2b9-61c8d0c6a228",
+    "data": [
+      {
+        "text": "I want to order ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536967176
+  },
+  {
+    "id": "1f82bd59-8971-4f3d-baa2-fd33e34b7791",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "7567d2ac-7341-4837-89af-541a21e082f8",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "a35056c0-20f4-4b26-9620-9b59132fd4d0",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536967176
+  },
+  {
+    "id": "d79639b5-1b62-447c-95c5-3349bf56b2c8",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536966151
+  },
+  {
+    "id": "2d2bfe28-5c6f-4aad-b7af-8ffd50e09f2c",
+    "data": [
+      {
+        "text": "Order to me ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "479315dc-e8e7-4f1c-9347-236abe702101",
+    "data": [
+      {
+        "text": "Deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "9de91f29-095e-4ed6-a64b-d5374f0138ef",
+    "data": [
+      {
+        "text": "Order ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "b715c198-4780-41d3-b764-2fcd60509b3d",
+    "data": [
+      {
+        "text": "deliver to me ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1536966151
+  },
+  {
+    "id": "b77d72dd-4ac4-4aee-a818-1d5026ab81fa",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536965312
+  },
+  {
+    "id": "88e83416-050d-4b14-9038-607c1cfe87c0",
+    "data": [
+      {
+        "text": "Deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "38de23ac-5bfc-4258-a8d9-e909bb62e299",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " as my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "27d23c8f-232e-44b1-bd2e-930798682f3a",
+    "data": [
+      {
+        "text": "order to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536966151
+  },
+  {
+    "id": "b38e40c8-3f31-4a57-bca4-f0556904ebfa",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536966151
+  },
+  {
+    "id": "d9ed3de3-e46a-4f11-aee1-572d70835b80",
+    "data": [
+      {
+        "text": "i need some ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "a428d11d-ac02-4d81-8aeb-fc6966dc1d1a",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "3e72755f-3a58-476c-be82-a53e8a759fa8",
+    "data": [
+      {
+        "text": "Can I have ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "42594880-b6fa-4a3a-a352-26a69272864c",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to be delivered to the ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536966151
+  },
+  {
+    "id": "eb95591c-0fbd-40d9-9a11-6c8a5042cb1d",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to the ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536966151
+  },
+  {
+    "id": "551dc5f1-077a-4dff-9346-9ca1fd99af7f",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536965312
+  },
+  {
+    "id": "35b783c3-8425-41f3-807d-9cadc8309ebb",
+    "data": [
+      {
+        "text": "bring me some ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964328
+  },
+  {
+    "id": "f2f9594c-c81b-4378-8073-38b65acd4f6a",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "meal",
+        "meta": "@meal",
+        "userDefined": true
+      },
+      {
+        "text": " delivery ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11 am",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b7b00a97-5e48-4538-90e5-a8aeb642947d",
+    "data": [
+      {
+        "text": "bring ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to the ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a01efa13-a7cf-48aa-8af9-644cfe55a5c6",
+    "data": [
+      {
+        "text": "bring me some ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fe1d7059-13cd-418b-a15e-40162df7596c",
+    "data": [
+      {
+        "text": "can I get food delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5e9214c1-b992-4d14-b7c8-efc78a78f078",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d518451d-6ac3-4ccf-b4ca-07427a367f24",
+    "data": [
+      {
+        "text": "home",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e3258c99-9289-444f-af9d-62082ccadce6",
+    "data": [
+      {
+        "text": "takeout with delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9d96a4ce-211a-4f3a-9550-1c6789b5eedd",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ca901d5f-ac48-439b-a323-61cf6e073f43",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "Greek",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dc30b202-d9e2-485b-910f-b161d0a9107b",
+    "data": [
+      {
+        "text": "deliver me a ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "13623a08-b531-4749-8dfb-d1732aae61bb",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered to ",
+        "userDefined": false
+      },
+      {
+        "text": "technopark",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1536964328
+  },
+  {
+    "id": "c4fec1a4-51f0-4952-aa22-61c0d50e4cce",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta carbonara",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to be delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964328
+  },
+  {
+    "id": "c5eaf687-9b8d-44cd-b4c8-6ec2e50d9dda",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "wok",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "af71d89d-a1fb-4358-b64c-37b70156b4c0",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered for ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "alias": "meal",
+        "meta": "@meal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ae917731-5388-4f82-88ac-7b1468d07387",
+    "data": [
+      {
+        "text": "can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "165b3c70-2d41-4c1f-b2ab-7fb12134927f",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "61a13efe-d216-43c8-a4ef-0b876de57e58",
+    "data": [
+      {
+        "text": "Chinese",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "wok",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivery ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0b4022d6-de41-4ce1-959b-51f8a75062a1",
+    "data": [
+      {
+        "text": "best",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b36dab63-7ef0-49f8-b426-272b76bc9999",
+    "data": [
+      {
+        "text": "where can I order ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6edb5d63-8ee6-4cb9-b8e1-467e6402c748",
+    "data": [
+      {
+        "text": "bring me something to ",
+        "userDefined": false
+      },
+      {
+        "text": "eat",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "95bfb163-a520-4903-a1d0-ead4334e6fca",
+    "data": [
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " delivery in ",
+        "userDefined": false
+      },
+      {
+        "text": "Palo Alto",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "64044e74-3445-48a4-ba2b-563d1cf3c51b",
+    "data": [
+      {
+        "text": "bring me a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "27a26908-c2c2-4b70-9d4f-b1d9dd436fd5",
+    "data": [
+      {
+        "text": "I want big pizza delivered to ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fee27289-c015-45ce-ae2c-52fe97d5fa9c",
+    "data": [
+      {
+        "text": "I want some ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d9a10d35-d470-4a52-ac78-b39a3da9cf28",
+    "data": [
+      {
+        "text": "I would like a medium ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered to ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Robles Avenue, Pasadena, California",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in 30 minutes",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "75f36f9a-b9d2-4a0f-89d8-02534ee06c84",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " want some ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "delivered",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "94710c39-a646-4d8e-9841-1a579122c9ee",
+    "data": [
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivery ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e1b41b7c-7454-48cc-bea9-a78766afdf05",
+    "data": [
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "my place",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "64540959-d63d-41e4-b88c-7b025ac9e244",
+    "data": [
+      {
+        "text": "find me a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " for delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "86d48da8-aa9b-4039-b1d8-c459503f6afc",
+    "data": [
+      {
+        "text": "I\u0027m hungry who delivers ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "alias": "meal",
+        "meta": "@meal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "425ae1c8-7c74-497a-aead-6355d126fde6",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "97a333f6-7d6f-473c-abcd-f5234c10bf26",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6befd719-37d3-43c2-8b9b-9d56644333c7",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Baxter Building on 42nd street, Manhattan",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 12,
+    "updated": 0
+  },
+  {
+    "id": "887c4883-1141-4f5e-ac91-bc764ef0b330",
+    "data": [
+      {
+        "text": "deliver a product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f43ace34-3585-412b-85a4-ab7be728fb47",
+    "data": [
+      {
+        "text": "order some food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2eff30bf-0254-46c8-ae73-812015688a2b",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "meal",
+        "meta": "@meal",
+        "userDefined": true
+      },
+      {
+        "text": " to my ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "64c65c81-f64b-4487-95e4-024f1726f02e",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "420, Paper St. Wilmington, DE 19886",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "de7b6d17-6a5e-4c66-b152-19b199749259",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "my place",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0cefb6d2-e3a7-4888-a058-eaa1efd6c657",
+    "data": [
+      {
+        "text": "can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "hamburger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1b638c10-ff4e-4fac-9808-acf2422768b6",
+    "data": [
+      {
+        "text": "I\u0027m hungry bring me some ",
+        "userDefined": false
+      },
+      {
+        "text": "McDonald\u0027s",
+        "alias": "venue-chain",
+        "meta": "@venue-eating-out-chain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "567cc16a-ce56-48fa-9dbb-c1732e5f5e1a",
+    "data": [
+      {
+        "text": "delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "6d913c81-de34-4af2-b8bc-3e4b27677faf",
+    "data": [
+      {
+        "text": "sushi",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "407d30c8-819d-4cb3-a744-a1ea588fd0b1",
+    "data": [
+      {
+        "text": "I want to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "salami pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "79a12e72-1f44-4aef-a6ad-251adaeba173",
+    "data": [
+      {
+        "text": "I want to order ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " bottles of ",
+        "userDefined": false
+      },
+      {
+        "text": "sparkling water",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "4a0a8620-a6ea-462f-ba37-be46d3de90db",
+    "data": [
+      {
+        "text": "I am hungry and I need a food delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "ddcefcf4-2d85-4738-af8f-3bec847637ae",
+    "data": [
+      {
+        "text": "can you get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "6e4665bc-dbfe-4914-b087-5c2cdc11fc31",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered to my ",
+        "userDefined": false
+      },
+      {
+        "text": "house",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7pm",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "a6640f60-214b-4f16-89a5-593d54fbf60d",
+    "data": [
+      {
+        "text": "deliver me ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "420 Paper St. Wilmington, DE 19886",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "67f9a13f-ecfb-4ded-a481-35c68298fa41",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "920ee5e4-d269-4033-a180-792a80f98c1a",
+    "data": [
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " takeout with delivery service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "7d0d6607-8543-487c-9b7a-98ea840b7fb7",
+    "data": [
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "ac48c2ab-8824-4770-9f1c-9ae51804a208",
+    "data": [
+      {
+        "text": "I want something to order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "03893509-8896-4c02-b1b7-fa4d5352bb79",
+    "data": [
+      {
+        "text": "deliver me ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "ae584a3d-e232-44d4-aa6d-d8d2663240ff",
+    "data": [
+      {
+        "text": "can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered to my ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "23d7b90e-1ee6-4ac5-9dc2-08479907a0e3",
+    "data": [
+      {
+        "text": "bring me ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "7bb0462d-a1a7-4a6e-96f3-0f463dd82a51",
+    "data": [
+      {
+        "text": "bring ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "my place",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "9aefbe3a-0967-422e-9539-d39c542bc0ba",
+    "data": [
+      {
+        "text": "I\u0027d like to have ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "2479aab7-333d-4041-993e-d6bb8b7853b0",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "bagel",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " can you bring me one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "bc96bd76-ff5e-4e08-9b39-51f2bd46f84f",
+    "data": [
+      {
+        "text": "delivery service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "91668cb2-8ede-400c-9599-4613b7e2ec7a",
+    "data": [
+      {
+        "text": "Mexican",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "5ae2a7d4-7eaa-49ea-a3f3-b5ecbe16b47e",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "4db97875-7b7c-4f51-9513-4ef8a40622bf",
+    "data": [
+      {
+        "text": "I\u0027m hungry bring me some food please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "b3c19d67-d41c-4619-92b0-b8106de39e79",
+    "data": [
+      {
+        "text": "I\u0027m looking to get ",
+        "userDefined": false
+      },
+      {
+        "text": "Starbucks",
+        "alias": "venue-chain",
+        "meta": "@venue-eating-out-chain",
+        "userDefined": true
+      },
+      {
+        "text": " delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "9b2d129a-034a-4055-a58e-d2373e101a2c",
+    "data": [
+      {
+        "text": "can you bring me some food from ",
+        "userDefined": false
+      },
+      {
+        "text": "McDonald\u0027s",
+        "alias": "venue-chain",
+        "meta": "@venue-eating-out-chain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "18f5d860-69d0-4650-83f6-033edfe91ea4",
+    "data": [
+      {
+        "text": "deliver ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " to my ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "ba7b9ce4-a1da-4c57-9ce8-586519119dd4",
+    "data": [
+      {
+        "text": "order delivery to ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "71aa863c-bb93-472e-ad87-68b9c5723fa3",
+    "data": [
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " delivery ",
+        "userDefined": false
+      },
+      {
+        "text": "near me",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "4218e07b-c429-4e4e-bca5-b5c40fdf1803",
+    "data": [
+      {
+        "text": "best",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "b4345c25-c8fe-4b1b-929a-deb4ed8dfc80",
+    "data": [
+      {
+        "text": "fast food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "503c4aae-ff5f-4e9c-89be-3d139707c50a",
+    "data": [
+      {
+        "text": "what can I have delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  },
+  {
+    "id": "c7e8b99e-3bfe-4b78-8843-a758e583f9bb",
+    "data": [
+      {
+        "text": "I want to get ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "alias": "meal",
+        "meta": "@meal",
+        "userDefined": true
+      },
+      {
+        "text": " delivered ",
+        "userDefined": false
+      },
+      {
+        "text": "at 8 pm",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536964126
+  }
+]

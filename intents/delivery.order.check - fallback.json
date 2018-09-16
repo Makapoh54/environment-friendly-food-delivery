@@ -1,0 +1,33 @@
+{
+  "id": "c38c94ec-f182-46f9-8521-50bc32c3238c",
+  "parentId": "5014cfac-10f3-46e5-823c-e24d20a90c45",
+  "rootParentId": "5014cfac-10f3-46e5-823c-e24d20a90c45",
+  "name": "delivery.order.check - fallback",
+  "auto": false,
+  "contexts": [
+    "deliveryordercheck-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "deliveryordercheck.deliveryordercheck-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I don\u0027t quite get that.. Can you repeat please?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537026138,
+  "fallbackIntent": true,
+  "events": []
+}

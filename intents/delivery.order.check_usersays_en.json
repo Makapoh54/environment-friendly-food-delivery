@@ -1,0 +1,125 @@
+[
+  {
+    "id": "9b99a12b-542a-45df-afae-f33312c019d7",
+    "data": [
+      {
+        "text": "check what I have ordered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69dc502c-8a75-48f4-9b98-b92e70ff7cc9",
+    "data": [
+      {
+        "text": "check my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b7d0d26-3873-4d6a-ad16-6c7cf644eaa2",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5c6401c-158e-43b0-bfbf-3fdfa4a8e54c",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " what I\u0027ve ordered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39744dad-cbc6-4255-8aca-ab9e9742e6c2",
+    "data": [
+      {
+        "text": "show my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f39b074-bec5-4642-bf32-bca146d82932",
+    "data": [
+      {
+        "text": "check my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c974220b-f363-46c3-bd88-038440f2370e",
+    "data": [
+      {
+        "text": "check my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f359c81f-a301-4ce1-b6b0-29dfe1eb651a",
+    "data": [
+      {
+        "text": "what do I have ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

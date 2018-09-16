@@ -1,0 +1,36 @@
+{
+  "id": "2ffb53e4-055c-4f59-9bc2-2bca3c849de3",
+  "name": "delivery.start",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi there! I am a bot for ordering food. Just tell me what you want to eat!",
+            "Hello. I am artificial intelligence to help you ordering meals. What do you want?",
+            "Welcome! Are you hungry, because my goal is to order food for you!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536981449,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

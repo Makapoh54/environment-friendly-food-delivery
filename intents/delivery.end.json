@@ -1,0 +1,32 @@
+{
+  "id": "a64d789e-d7a3-4f70-82e4-6bb11181f7be",
+  "name": "delivery.end",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thanks for using me today!",
+            "I am here to help, bye.",
+            "Hope to see you soon!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536981869,
+  "fallbackIntent": false,
+  "events": []
+}

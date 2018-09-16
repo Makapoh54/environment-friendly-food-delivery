@@ -1,0 +1,33 @@
+{
+  "id": "4619e705-21cb-485f-8b27-04b6ba606937",
+  "parentId": "853c2a0c-405d-4691-88e7-b0f862d9604c",
+  "rootParentId": "853c2a0c-405d-4691-88e7-b0f862d9604c",
+  "name": "delivery.order.swap - fallback",
+  "auto": false,
+  "contexts": [
+    "deliveryorderswap-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "deliveryorderswap.deliveryorderswap-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I don\u0027t quite get that.. Can you repeat please?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537026406,
+  "fallbackIntent": true,
+  "events": []
+}
